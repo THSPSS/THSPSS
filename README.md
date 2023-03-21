@@ -30,7 +30,7 @@
 
 - :zap: 새로운 기술을 익혀 실용적이고 유용하게 쓰일 수 있는 개발자가 되고자 끊임없이 노력하고 있습니다.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-seonyeong-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sunyeong-pang-9b270a254/)
+- :mailbox:Contact Me: [![Linkedin Badge](https://img.shields.io/badge/-seonyeong-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sunyeong-pang-9b270a254/)
 
 
 
